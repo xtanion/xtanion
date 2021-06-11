@@ -1,4 +1,3 @@
-### Just got started 🤖
 
 <!--
 **xtanion/xtanion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![android animated](https://cdn57.androidauthority.net/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif)
+ currently working on 🤖
