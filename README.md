@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![android animated](https://cdn57.androidauthority.net/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif)
->currently working on 🤖
+>Currently Learning Android Development and Some Deep Learning🤖
+[Add my Discord Bot](https://discord.com/api/oauth2/authorize?client_id=828553236423770122&permissions=0&scope=bot)
