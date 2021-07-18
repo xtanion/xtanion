@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <h3 align="center">Learning Android Developmen and some Deep Learning.</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Technologies I know :D</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/material-outlined/24/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/material-rounded/24/000000/kotlin.png" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/fluent-systems-regular/48/000000/python.png" alt="python" width="40" height="40"/> </a> </p>
 
