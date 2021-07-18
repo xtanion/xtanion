@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg)
-![android animated](https://cdn57.androidauthority.net/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif)
->Currently Learning Android Development and Some Deep Learning🤖
-<br />[Add my Discord Bot](https://discord.com/api/oauth2/authorize?client_id=828553236423770122&permissions=0&scope=bot) 
+<h3 align="center">Learning Android Developmen and some Deep Learning.</h3>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
