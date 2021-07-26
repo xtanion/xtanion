@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Learning Android Development and some Deep Learning.</h3>
 
-
-<h5 align="center">Technologies I know :D</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/material-outlined/24/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/material-rounded/24/000000/kotlin.png" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/fluent-systems-regular/48/000000/python.png" alt="python" width="40" height="40"/> </a> </p>
-
