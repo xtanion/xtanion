@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg)
-<h3 align="center">Learning Android Development and some Deep Learning.</h3>
+<h4 align="center">Let's make this world a better place</h4>
 
