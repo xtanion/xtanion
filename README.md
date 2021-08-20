@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg) -->
-<img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" width="80%" height="80%" style="  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
+ <div align="center">
+  <a href="https://youtu.be/GmCb5ejPZRM">
+    <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg">
+  </a>
+</div>
 <p align="center">Creating the life of my dreams</p>
 
 
