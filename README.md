@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg)
-<h5 align="center">Creating the life of my dreams</h5>
+<p align="center">Creating the life of my dreams</p>
 
