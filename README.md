@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg) -->
  <div align="center">
   <a href="https://youtu.be/GmCb5ejPZRM">
-    <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" height="70%" width="70%">
   </a>
 </div>
 <p align="center">Creating the life of my dreams</p>
