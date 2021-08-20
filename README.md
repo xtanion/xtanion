@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg) -->
-<img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" width="80%" height="80%">
+<img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" width="80%" height="80%" align="center">
 <p align="center">Creating the life of my dreams</p>
 
