@@ -19,6 +19,6 @@ Here are some ideas to get you started:
     <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" height="70%" width="70%">
   </a>
 </div>
-<p align="center">Your Limits? Who decides, what your limit is !</p>
+<p align="center">Your Limits? Who decides what your limit is?</p>
 
 
