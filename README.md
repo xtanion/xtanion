@@ -11,7 +11,7 @@ data class xtanion(
            Learning Advanced Android Concepts]
 )
 ```
-
+<br/>
 <div align="center">
   <a href="https://youtu.be/h-d4wXYJNCo">
    <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" height="70%" width="70%">
