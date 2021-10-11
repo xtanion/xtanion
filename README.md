@@ -14,7 +14,7 @@ val watching: Show? = Naruto Ep. 19
 ```
 <br/>
 <div align="center">
-  <a href="https://youtu.be/h-d4wXYJNCo">
+  <a href="https://youtu.be/GU_RiAHR9aY">
    <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" height="70%" width="70%">
   </a>
 </div>
