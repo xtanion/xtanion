@@ -18,7 +18,8 @@ val watching: Show? = Naruto Ep. 19
    <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" height="70%" width="70%">
   </a>
 </div>
-<p align="center">Your Limits? Who decides what your limit is?</p>
+<p align="center">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥ </p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/Shivam-Anand-blue)](www.linkedin.com/in/shivam-anand-b3b70b1a2)
 [![GitHub Thaiane](https://img.shields.io/github/followers/xtanion?label=xtanion&style=social)](https://github.com/xtanion)
