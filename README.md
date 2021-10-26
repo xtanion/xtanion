@@ -5,7 +5,7 @@
 ```kt Intro Tab
 data class xtanion(
  val education: University? = IIT Roorkee,
- val code: List<Languages> = [Python, C, Kotlin, C++],
+ val code: List<Languages> = [C, Python, Kotlin],
  val status: List<Tasks>? = [Exploring Deep-Learning(CNNs),
            Learning Advanced Android Concepts]
 )
