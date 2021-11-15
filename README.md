@@ -6,7 +6,7 @@
 data class xtanion(
  val code: List<Languages> = [C, Python, Kotlin],
  val status: List<Tasks>? = [Exploring Deep-Learning(CNNs),
-           Learning Advanced Android Concepts]
+           Learning Android apps development]
 )
 ```
 <br/>
