@@ -2,13 +2,7 @@
 <h3> Ohayo ! <img src="https://c.tenor.com/V4QLFtiLp0YAAAAi/jiraya.gif" width="70"></h3>
 <img align='right' src="https://c.tenor.com/DbPEn_dyRLoAAAAi/guy-naruto.gif" href="https://youtu.be/GU_RiAHR9aY" width="140">
 
-```kt Intro Tab
-data class xtanion(
- val code: List<Languages> = [C, Python, Kotlin],
- val status: List<Tasks>? = [Exploring Deep-Learning(CNNs),
-           Learning Android apps development]
-)
-```
+
 <br/>
 <div align="center">
   <a href="https://youtu.be/GU_RiAHR9aY">
