@@ -1,5 +1,5 @@
 <!-- ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg) -->
-<h3> Ohayo ! <img src="https://c.tenor.com/V4QLFtiLp0YAAAAi/jiraya.gif" width="70"></h3>
+<h2> Ohayo ! <img src="https://c.tenor.com/V4QLFtiLp0YAAAAi/jiraya.gif" width="70"></h2>
 
 
 <br/>
