@@ -10,8 +10,8 @@
 </div>
 <p align="center">Limits? Who decides what your limit is - Saitama </p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/%20-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/xtanion)
-[![GitHub Thaiane](https://img.shields.io/github/followers/xtanion?label=xtanion&style=social)](https://github.com/xtanion)
+[![GitHub](https://img.shields.io/github/followers/xtanion?label=xtanion&style=social)](https://github.com/xtanion)
+[![Linkedin](https://img.shields.io/badge/%20-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/xtanion/)
 [![Gmail](https://img.shields.io/badge/%20-Gmail-orange?style=flat&logo=gmail)](mailto:anandshivam54321@gmail.com)
 [![Thanks for reading](https://c.tenor.com/IN6jha4TknYAAAAi/emojify.gif)](https://youtu.be/Kkt6C7CSkQc)
 
