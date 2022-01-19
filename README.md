@@ -12,6 +12,6 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/Shivam-Anand-blue)](www.linkedin.com/in/shivam-anand-b3b70b1a2)
 [![GitHub Thaiane](https://img.shields.io/github/followers/xtanion?label=xtanion&style=social)](https://github.com/xtanion)
-[![Gmail](https://img.shields.io/badge/Gmail-%40gmail.com-orange?style=flat&logo=gmail)](anandshivam54321@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%40gmail.com-orange?style=flat&logo=gmail)](mailto:anandshivam54321@gmail.com)
 [![Thanks for reading](https://c.tenor.com/IN6jha4TknYAAAAi/emojify.gif)](https://youtu.be/Kkt6C7CSkQc)
 
