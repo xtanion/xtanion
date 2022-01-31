@@ -1,6 +1,6 @@
 <!-- ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg) -->
-<h2> Ohayo ! <img src="https://c.tenor.com/V4QLFtiLp0YAAAAi/jiraya.gif" width="70"></h2>
-
+<h2> Hi <img src="https://c.tenor.com/V4QLFtiLp0YAAAAi/jiraya.gif" width="70"></h2>
+I'm Xtanion! Currently a second year Industrial Engineering student in IIT Roorkee. Exploring Deep Learning and Computer graphics, I love physics and sketching anime charecters :D 
 
 <br/>
 <div align="center">
