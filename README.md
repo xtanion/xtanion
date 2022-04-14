@@ -1,11 +1,11 @@
 <!-- ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg) -->
-<h2> Hi <img src="https://c.tenor.com/IN6jha4TknYAAAAi/emojify.gif" width="50"></h2>
+<h2> Hi <img src="https://c.tenor.com/5EKaoaVIFz4AAAAi/hello-mafumafu.gif" width="50"></h2>
 I'm Xtanion! Currently a second year Industrial Engineering student in IIT Roorkee. Exploring Deep Learning and Computer graphics, I love physics and sketching anime charecters :D 
 
 <br/>
 <div align="center">
   <a href="https://youtu.be/GU_RiAHR9aY">
-   <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" height="70%" width="70%">
+   <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" height="80%" width="80%">
   </a>
 </div>
 <p align="center">Limits? Who decides what your limit is - Saitama </p>
