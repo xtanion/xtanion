@@ -5,12 +5,12 @@ I'm Xtanion! Currently a second year Industrial Engineering student in IIT Roork
 <br/>
 <div align="center">
   <a href="https://youtu.be/GU_RiAHR9aY">
-   <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" height="80%" width="80%">
+   <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" height="70%" width="70%">
   </a>
 </div>
 <p align="center">Limits? Who decides what your limit is - Saitama </p>
 
-[![GitHub](https://img.shields.io/github/followers/xtanion?label=xtanion&style=social)](https://github.com/xtanion)
+<!-- [![GitHub](https://img.shields.io/github/followers/xtanion?label=xtanion&style=social)](https://github.com/xtanion)
 [![Linkedin](https://img.shields.io/badge/%20-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/xtanion/)
-[![Gmail](https://img.shields.io/badge/%20-Gmail-orange?style=flat&logo=gmail)](mailto:anandshivam54321@gmail.com)
+[![Gmail](https://img.shields.io/badge/%20-Gmail-orange?style=flat&logo=gmail)](mailto:anandshivam54321@gmail.com) -->
 
