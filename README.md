@@ -1,8 +1,8 @@
 <!-- ![hmmm](https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg) -->
-<h2> Ohayo ! <img src="https://c.tenor.com/5EKaoaVIFz4AAAAi/hello-mafumafu.gif" width="50"></h2>
-I'm Xtanion! Currently a second year Industrial Engineering student in IIT Roorkee. Exploring Deep Learning and Computer graphics, I love physics and sketching anime charecters :D 
+<img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="60">
+Hello, I'm Shivam! Currently a second year Industrial Engineering student in IIT Roorkee. Exploring Deep Learning and Computer graphics, I love physics and sketching anime charecters :D 
 
-`currently watching: Samurai Champloo,
+`currently watching: Spy X Family,
                      One-Piece`
 
 <br/>
