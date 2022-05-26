@@ -14,6 +14,8 @@
 </div>
 </br>
 
+I love to sketch anime charecters when I'm bored or when I'm not coding. Also, this `<div>` is not centered ik. 
+
 <div align="center" padding="10">
   
   [![GitHub](https://img.shields.io/github/followers/xtanion?label=xtanion&style=social)](https://github.com/xtanion)
