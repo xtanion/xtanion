@@ -14,7 +14,7 @@
 </div>
 </br>
 
-I love to sketch anime charecters when I'm bored or when I'm not coding. Also, this `<div>` is not centered ik. 
+I love to sketch anime charecters when I'm bored or when I'm not coding.
 
 <div align="center" padding="10">
   
