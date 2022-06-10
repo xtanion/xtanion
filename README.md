@@ -9,12 +9,12 @@
 
 </br>
 <div align="center" padding="10">
-  <code>Currently Watching: SpyXFamily, One-Piece</code>
+  I love to sketch anime charecters when I'm bored or when I'm not coding.
   </br>
 </div>
 </br>
 
-I love to sketch anime charecters when I'm bored or when I'm not coding.
+
 
 <div align="center" padding="10">
   
