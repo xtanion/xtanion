@@ -9,7 +9,7 @@
 
 </br>
 <div align="center" padding="10">
-  I love to sketch anime charecters when I'm bored or when I'm not coding.
+  I love to sketch anime charecters when I'm bored or when I'm not coding (I write code in my free time).
   </br>
 </div>
 </br>
