@@ -2,14 +2,14 @@
 
 <div align="center">
  
-  <img src="https://c.tenor.com/024XGL8zxiAAAAAi/nezuko-spin.gif" width="50" width="60" align="top">
+  <img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="50" width="60" align="top">
   <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" width="60%">
  
 </div>
 
 </br>
 <div align="center" padding="10">
-  I love to sketch anime charecters when I'm bored or when I'm not coding (I write code in my free time).
+  Rest at the end, not in the middle.
   </br>
 </div>
 </br>
