@@ -8,18 +8,12 @@
 </div>
 
 </br>
-<div align="center" padding="10">
-  Rest at the end, not in the middle.
-  </br>
-</div>
-</br>
-
 
 
 <div align="center" padding="10">
   
-  [![GitHub](https://img.shields.io/github/followers/xtanion?label=xtanion&style=social)](https://github.com/xtanion)
-  [![Linkedin](https://img.shields.io/badge/%20-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/xtanion/)
-  [![Gmail](https://img.shields.io/badge/%20-Gmail-orange?style=flat&logo=gmail)](mailto:anandshivam54321@gmail.com)
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://blogs.python-gsoc.org/en/xtanions-blog/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xtanion/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandshivam54321@gmail.com)
 
 </div>
