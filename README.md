@@ -4,6 +4,7 @@
  
   <img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="50" width="60" align="top">
 <!--   <img src="https://github.com/xtanion/xtanion/blob/output/github-contribution-grid-snake.svg" width="60%"> -->
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6588daec54b577105139aaf7?variant=dark&roadmaps=backend%2Cpython" alt="roadmap.sh"/></a>
  
 </div>
 
