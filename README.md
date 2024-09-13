@@ -10,9 +10,7 @@
 </br>
 
 ```sh
-echo "Hello World, This is Shivam Anand"
 echo "SSBsb3ZlIGNvbXB1dGVycyAmIGNhdHMK" | base64 -d
-
 ```
 <div align="center" padding="10">
   
