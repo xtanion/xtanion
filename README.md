@@ -5,5 +5,6 @@ echo "SSBsb3ZlIGNvbXB1dGVycyAmIGNhdHMK" | base64 -d
 ```
 <div align="center" padding="10">
   
-  [Blogs at Python](https://blogs.python-gsoc.org/en/xtanions-blog/) |
+  [Blogs - Python](https://blogs.python-gsoc.org/en/xtanions-blog/) | 
+  [Blogs - Of My Own](https://xtanion.github.io/)
 </div>
